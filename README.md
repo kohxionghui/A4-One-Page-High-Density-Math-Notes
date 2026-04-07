@@ -10,7 +10,7 @@ Be sure to set the Printer setting to Fill the Page to ensure that no further bo
 - Detailed Handwritten descriptions covering almost every topic tested
 - Added Past Exam question examples
 - Timetable added for non-calculator Exam (Discrete Math)
-
+### 📷Preview:
 ![Koh Xiong Hui&#39;s D Math Notes_260408_003026](https://github.com/user-attachments/assets/59e2cca9-5814-43e9-995d-7210a1c3448e)
 
 ![Koh Xiong Hui&#39;s C Math Notes_260408_003005](https://github.com/user-attachments/assets/537b3ce1-daba-461e-a75e-b35c83476093)
