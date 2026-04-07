@@ -11,6 +11,6 @@ Be sure to set the Printer setting to Fill the Page to ensure that no further bo
 - Added Past Exam question examples
 - Timetable added for non-calculator Exam (Discrete Math)
 
-![6244616422864654856](https://github.com/user-attachments/assets/1f05303b-6fd8-4eaf-b24d-a68042ecc785)
+![Koh Xiong Hui&#39;s D Math Notes_260408_003026](https://github.com/user-attachments/assets/59e2cca9-5814-43e9-995d-7210a1c3448e)
 
-![6244616422864654857](https://github.com/user-attachments/assets/808666a1-85ce-4a8d-9382-ddaeb10875b5)
+![Koh Xiong Hui&#39;s C Math Notes_260408_003005](https://github.com/user-attachments/assets/537b3ce1-daba-461e-a75e-b35c83476093)
