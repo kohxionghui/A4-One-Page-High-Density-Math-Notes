@@ -11,6 +11,6 @@ Be sure to set the Printer setting to Fill the Page to ensure that no further bo
 - Added Past Exam question examples
 - Timetable added for non-calculator Exam (Discrete Math)
 
-<img width="1019" height="1446" alt="Screenshot (78)" src="https://github.com/user-attachments/assets/fa0589ab-7005-4c7f-9d6f-a7f2e89cd0af" />
+![6244616422864654856](https://github.com/user-attachments/assets/1f05303b-6fd8-4eaf-b24d-a68042ecc785)
 
-<img width="1008" height="1427" alt="Screenshot (77)" src="https://github.com/user-attachments/assets/256a8ffb-388c-44b8-92ad-1e5a19865955" />
+![6244616422864654857](https://github.com/user-attachments/assets/808666a1-85ce-4a8d-9382-ddaeb10875b5)
