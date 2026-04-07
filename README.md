@@ -11,7 +11,6 @@ Be sure to set the Printer setting to Fill the Page to ensure that no further bo
 - Added Past Exam question examples
 - Timetable added for non-calculator Exam (Discrete Math)
 
-[Koh Xiong Hui's C Math Notes.pdf](https://github.com/user-attachments/files/26543726/Koh.Xiong.Hui.s.C.Math.Notes.pdf)
+<img width="1019" height="1446" alt="Screenshot (78)" src="https://github.com/user-attachments/assets/fa0589ab-7005-4c7f-9d6f-a7f2e89cd0af" />
 
-
-[Koh Xiong Hui's D Math Notes.pdf](https://github.com/user-attachments/files/26543733/Koh.Xiong.Hui.s.D.Math.Notes.pdf)
+<img width="1008" height="1427" alt="Screenshot (77)" src="https://github.com/user-attachments/assets/256a8ffb-388c-44b8-92ad-1e5a19865955" />
